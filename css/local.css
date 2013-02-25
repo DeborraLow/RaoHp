@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+A {text-decoration: none; font-family: Arial, Helvetica, sans-serif;}
+A:hover { color: #0033ff; text-decoration: underline; }
+a:link{ color: #333399;}
+a:visited{ color: #6666cc;}

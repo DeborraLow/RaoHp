@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+
+body { margin:0; background: #FFFFFF; font: 12px 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; color: #000000; font-weight: normal; line-height:15px;}
+table, td { #000; font-weight: normal; font-style:normal; font-variant:normal; font: 10px 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; line-height:15px}
+
+.V9 			 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px;}
+.V10 		 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px;}
+.V11 		 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px;}
+
+.G9 			 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px;}
+.G9G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px; color: #76797C; line-height: 13px;}
+.G10 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px; line-height: 15px;}
+.G10G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px; color: #76797C;}
+.G10W 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px; color: #FFFFFF;}
+
+.L10 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px;}
+.L10G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px; color: #76797C;}
+.L10W 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 10px; line-height: 13px; color: #FFFFFF;}
+.L11 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px;}
+.L12 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px;}
+.L12G		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px; color: #76797C;}
+.L12W		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px; color: #FFFFFF;}
+.L14 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 14px; line-height: 18px;}
+.L14G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 14px; line-height: 18px; color: #76797C;}
+.L14W 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 14px; line-height: 18px; color: #FFFFFF;}
+.L16 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 16px; line-height: 21px;}
+.L16G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 16px; line-height: 21px; color: #76797C;}
+.L16W 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 16px; line-height: 21px; color: #FFFFFF;}
+.L18 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 18px; line-height: 24px;}
+.L18G		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 18px; line-height: 24px; color: #76797C;}
+.L18W		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 18px; line-height: 24px; color: #FFFFFF;}
+.L24 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 24px; line-height: 32px;}
+.L24G 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 24px; line-height: 32px; color: #76797C;}
+.L24W 		 { font-family:'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 24px; line-height: 32px; color: #FFFFFF;}
+
+.T13 		 { font-family: 'Lucida Grande','Hiragino Mincho Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 13px; line-height: 115%;}
+.TITLE 		 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 24px; font-weight: 900;}
+.INTRO 		 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 12px; line-height: 15px;}
+/*.INTRO 		 { font-family: 'Hiragino Mincho Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-size: 15px;}*/
+.form_style 	 { font-size: 12px; font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; width: 215px;}
+.form_style_med { font-size: 12px; font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; width: 200;}
+.form_style_srt { font-size: 12px; font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; width: 170;}
+.tableborder 	 { background-color: #FFFFFF; border: 1px #a1a5a9 solid;}
+
+#header			 { margin-right: auto; margin-left: auto; margin-top: 15px; margin-bottom: 15px; width: 680;}	
+#breadcrumb		 { margin-top: 20px; margin-bottom: 10px;}
+
+sup { vertical-align: baseline; font-size: 1em; color: #76797C;}
+
+a.black { color: #000000; text-decoration: none;}
+a.black:hover { color: #000000; text-decoration: underline;}
+a.white { color: #FFFFFF; text-decoration: none;}
+a.white:hover { color: #FFFFFF; text-decoration: underline;}
+			
+
+/* List definitions */
+ul.none { list-style:none; margin-top: 0px; margin-bottom: 5px; margin-left: 14px; padding: 0px; padding-left: 1px; line-height: 13px;}
+ul.arrowtext, ul.arrowlinks { list-style-image: url(http://images.apple.com/jp/elements/arrowa1a5a9.gif); margin-top: 0px; margin-bottom: 5px; margin-left: 14px; padding-left: 1px; line-height: 13px; list-style-position: outside; padding-right:0px; padding-top:0px; padding-bottom:0px}
+ul.arrowpro { list-style-image: url(http://images.apple.com/jp/elements/arrowpro2.gif); margin-top: 0px; margin-bottom: 5px; margin-left: 14px; padding-left: 1px; line-height: 13px; list-style-position: outside; padding-right:0px; padding-top:0px; padding-bottom:0px}
+ul.bullet { list-style-image: url(http://images.apple.com/jp/elements/dot2.gif); margin-top: 0px; margin-bottom: 0px; margin-left: 14px; padding-left: 1px; line-height: 13px; list-style-position: outside; padding-right:0px; padding-top:0px; padding-bottom:0px}
+ul.square { list-style: square; margin-bottom: 0px; margin-left: 22px; padding: 0px; line-height: 13px;}
+ul.circle { list-style: circle; margin-bottom: 0px; margin-left: 22px; padding: 0px; line-height: 13px;}
+ul.decimal { list-style: decimal; margin-bottom: 0px; margin-left: 22px; padding: 0px; line-height: 13px;}
+ol.decimal { list-style: decimal; margin-bottom: 0px; margin-left: 22px; padding: 0px; line-height: 13px;}
+ol.dash { list-style: -; margin-bottom: 0px; margin-left: 22px; padding: 0px; line-height: 13px;}
+
+
+/* Misc for server */
+.bdrleft		 { border-left: 1px solid #a1a5a9;}
+.bdrtop			 { border-top: 1px solid #a1a5a9; padding-top: 5px; padding-bottom: 5px;}
+.bdrtop_f		 { border-top: 1px solid #a1a5a9; padding-top: 5px; padding-bottom: 5px; background-color: #F5F5F5;}
+
+
+/* -------- */
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, b, em, strong { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; font-weight: bold; font-style: normal;}
+p { color: #000; font:12px 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; line-height: 15px; font-weight: normal; font-style:normal; font-variant:normal;}
+
+
+/* standard fonts */
+.K10, .K12, .K14, .K18, .K24 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif;}
+.KB10, .KB12, .KB14, .KB18, .KB24 { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W6','ＭＳ Ｐゴシック',sans-serif; font-weight: bold;}
+.KEB24 { font-family: 'Lucida Grande',"Hiragino Kaku Gothic Std",'ヒラギノ角ゴ Pro W8','ＭＳ Ｐゴシック',sans-serif; font-weight: bolder;}
+.K10 { font-size: 10px; line-height: 13px;}
+.KB10 { font-size: 10px;}
+.K12 { font-size: 12px;  line-height: 15px;}
+.KB12 { font-size:12px;}
+.K14 { font-size: 14px;  line-height: 18px;}
+.KB14 { font-size:14px;}
+.K18, .L14 { font-size: 18px; line-height: 24px;}
+.KB18 { font-size:18px;}
+.K24, .L18, .L24 { font-size: 24px; line-height: 32px;}
+.KB24, .KEB24 { font-size:24px;}
+.G12, .V12 { font-size: 14px; line-height: 18px;}
+
+/* for localization */
+.G9G, .G10G, .L10G, .L12G, .L14G, .L18G { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; color: #76797C;}
+.G10W, .L10W, .L12W, .L14W, .L18W, .L24W { font-family: 'Lucida Grande','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','ＭＳ Ｐゴシック',sans-serif; color: #FFFFFF;}
+
+/* for Mincho style page */
+.M12, .M14 { font-family: 'Lucida Grande','Hiragino Mincho Pro','ヒラギノ明朝 Pro W3','ＭＳ Ｐ明朝', serif;}
+.MB12, .M14, .MB18, .MB24 { font-family: 'Lucida Grande','Hiragino Mincho Pro','ヒラギノ明朝 Pro W6','ＭＳ Ｐ明朝', serif; font-weight: bold;}
+.M12 { font-size: 12px; line-height: 15px;}
+.MB12 { font-size:12px;}
+.M14 { font-size: 14px; line-height: 18px;}
+.MB14 { font-size:14px;}
+.MB18 { font-size:18px;}
+.MB24 { font-size:24px;}
+
+/* for Marugothic style */
+.R10, .R12, .R14 { font-family: 'Lucida Grande','Hiragino Maru Gothic Pro','ヒラギノ丸ゴ Pro W4','ＭＳ Ｐゴシック',sans-serif;}
+.R10 { font-size: 10px; line-height: 13px;}
+.R12 { font-size: 12px;  line-height: 15px;}
+.R14 { font-size: 14px; line-height: 18px;}
+
+/* Other styles */
+.DONOTDISPLAY { display: none; visibility: hidden;}
+#footerarea { margin: 1em auto; margin-top: 30px;}
+#footer { margin: 1em auto; font-size: 10px; border-top: 1px solid #a1a5a9; padding-top: 1.5em; width: 650px;}
+#footer p,#footer .K10 { font-size: 10px;}
+
+/*#footer .KB10 { font-size: 10px; font-weight: bold;}*/
+
+
+
+#footer form { margin-bottom: 1em;}
+#footer form input { vertical-align: bottom;}
+#footerarea {margin: 1em auto; margin-top:30px; }

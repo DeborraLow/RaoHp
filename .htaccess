@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+# DoCoMo
+RewriteCond %{HTTP_USER_AGENT} DoCoMo [NC,OR]
+# SoftBank
+RewriteCond %{HTTP_USER_AGENT} J-PHONE [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} Vodafone [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} SoftBank [NC,OR]
+# au
+RewriteCond %{HTTP_USER_AGENT} UP\.Browser [NC]
+RewriteRule ^/$ /i-index.html [R,L]
